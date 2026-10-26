@@ -54,7 +54,7 @@
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" alt="Coding GIF" />
+      <img width="480" height="480" alt="banner" src="https://github.com/user-attachments/assets/c77adfa9-8514-419b-a47b-34f085b4f0d8" />
     </td>
   </tr>
 </table>
@@ -137,9 +137,12 @@
   |:---|:---:|
   | Bachelor of Computer Application, **LJ University** | Aug 2023 – May 2025 |
 
-  <p>
-    AWS Academy Graduate – Cloud Architecting &nbsp;·&nbsp; Introduction to Relational Databases (RDBMS) &nbsp;·&nbsp; C for Everyone, Part 1 &nbsp;·&nbsp; Introduction to HTML5 &nbsp;·&nbsp; Full-Stack Web Development with Laravel &amp; PHP
-  </p>
+  | AWS Academy Graduate – Cloud Architecting |
+  |:---:|
+  | Introduction to Relational Databases (RDBMS) |
+  | C for Everyone, Part 1: Programming Fundamentals |
+  | Introduction to HTML5 |
+  | Master Full-Stack Web Development with Laravel & PHP |
 </div>
 
 <br />
@@ -203,7 +206,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujahid313v&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer quote" />
 </div>
 
 <br />
