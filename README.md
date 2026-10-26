@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/mujahid313v">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00acc1&style=for-the-badge" alt="Profile views" />
+      <img src="https://komarev.com/ghpvc/?username=mujahid313v&label=Profile%20Views&color=00acc1&style=for-the-badge" alt="Profile views" />
       <br /><br />
       <ul>
         <li>Full-stack developer working with Next.js, Node.js &amp; TypeScript, from database and API design to polished interfaces.</li>
@@ -184,18 +184,18 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=aura" alt="GitHub stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mujahid313v&theme=aura" alt="GitHub stats" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=aura" alt="Repos per language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mujahid313v&theme=aura" alt="Repos per language" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=aura" alt="Most commit language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mujahid313v&theme=aura" alt="Most commit language" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=aura&utcOffset=5.5" alt="Productive time" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mujahid313v&theme=aura&utcOffset=5.5" alt="Productive time" />
     </td>
   </tr>
 </table>
@@ -203,7 +203,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujahid313v&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
 </div>
 
 <br />
@@ -230,7 +230,7 @@
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&color=7c3aed&style=flat" alt="Visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=mujahid313v&label=Visitors&color=7c3aed&style=flat" alt="Visitor badge" />
 </div>
 
 <br />
