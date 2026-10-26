@@ -2,12 +2,12 @@
 
 # Mujahid Vhora
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00ACC1&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;AI+Systems+%26+Secure+Web+Apps)](https://github.com/mujahid313v)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00ACC1&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;AI+Systems+%26+Secure+Web+Apps)](https://github.com/YOUR_GITHUB_USERNAME)
 
 **Building web apps and AI-powered features that are secure by design.**
 
 ![Role](https://img.shields.io/badge/Full--Stack-Developer-00ACC1?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-AI%20%26+Web%20Security-7c3aed?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Web%20Security-7c3aed?style=flat-square)
 ![Open](https://img.shields.io/badge/Open%20to-Work-111827?style=flat-square)
 ![Location](https://img.shields.io/badge/Ahmedabad-India-EA4335?style=flat-square)
 
@@ -66,8 +66,8 @@ More projects coming soon.
 
 ## GitHub Stats
 
-[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mujahid313v&theme=aura)](https://github.com/mujahid313v)
-[![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mujahid313v&theme=aura)](https://github.com/mujahid313v)
+[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=aura)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=aura)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
